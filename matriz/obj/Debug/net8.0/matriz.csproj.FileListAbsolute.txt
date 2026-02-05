@@ -1,0 +1,4 @@
+C:\Users\felipe.fsantos47\source\repos\matriz\obj\Debug\net8.0\matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.fsantos47\source\repos\matriz\obj\Debug\net8.0\matriz.AssemblyInfoInputs.cache
+C:\Users\felipe.fsantos47\source\repos\matriz\obj\Debug\net8.0\matriz.AssemblyInfo.cs
+C:\Users\felipe.fsantos47\source\repos\matriz\obj\Debug\net8.0\matriz.csproj.CoreCompileInputs.cache

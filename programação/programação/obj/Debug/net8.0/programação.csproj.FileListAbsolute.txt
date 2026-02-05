@@ -1,0 +1,14 @@
+C:\Users\felipe.fsantos47\source\repos\programação\programação\bin\Debug\net8.0\programação.exe
+C:\Users\felipe.fsantos47\source\repos\programação\programação\bin\Debug\net8.0\programação.deps.json
+C:\Users\felipe.fsantos47\source\repos\programação\programação\bin\Debug\net8.0\programação.runtimeconfig.json
+C:\Users\felipe.fsantos47\source\repos\programação\programação\bin\Debug\net8.0\programação.dll
+C:\Users\felipe.fsantos47\source\repos\programação\programação\bin\Debug\net8.0\programação.pdb
+C:\Users\felipe.fsantos47\source\repos\programação\programação\obj\Debug\net8.0\programação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.fsantos47\source\repos\programação\programação\obj\Debug\net8.0\programação.AssemblyInfoInputs.cache
+C:\Users\felipe.fsantos47\source\repos\programação\programação\obj\Debug\net8.0\programação.AssemblyInfo.cs
+C:\Users\felipe.fsantos47\source\repos\programação\programação\obj\Debug\net8.0\programação.csproj.CoreCompileInputs.cache
+C:\Users\felipe.fsantos47\source\repos\programação\programação\obj\Debug\net8.0\programação.dll
+C:\Users\felipe.fsantos47\source\repos\programação\programação\obj\Debug\net8.0\refint\programação.dll
+C:\Users\felipe.fsantos47\source\repos\programação\programação\obj\Debug\net8.0\programação.pdb
+C:\Users\felipe.fsantos47\source\repos\programação\programação\obj\Debug\net8.0\programação.genruntimeconfig.cache
+C:\Users\felipe.fsantos47\source\repos\programação\programação\obj\Debug\net8.0\ref\programação.dll

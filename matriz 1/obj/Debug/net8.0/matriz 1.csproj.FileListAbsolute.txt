@@ -1,0 +1,14 @@
+C:\Users\felipe.fsantos47\source\repos\matriz 1\bin\Debug\net8.0\matriz 1.exe
+C:\Users\felipe.fsantos47\source\repos\matriz 1\bin\Debug\net8.0\matriz 1.deps.json
+C:\Users\felipe.fsantos47\source\repos\matriz 1\bin\Debug\net8.0\matriz 1.runtimeconfig.json
+C:\Users\felipe.fsantos47\source\repos\matriz 1\bin\Debug\net8.0\matriz 1.dll
+C:\Users\felipe.fsantos47\source\repos\matriz 1\bin\Debug\net8.0\matriz 1.pdb
+C:\Users\felipe.fsantos47\source\repos\matriz 1\obj\Debug\net8.0\matriz 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.fsantos47\source\repos\matriz 1\obj\Debug\net8.0\matriz 1.AssemblyInfoInputs.cache
+C:\Users\felipe.fsantos47\source\repos\matriz 1\obj\Debug\net8.0\matriz 1.AssemblyInfo.cs
+C:\Users\felipe.fsantos47\source\repos\matriz 1\obj\Debug\net8.0\matriz 1.csproj.CoreCompileInputs.cache
+C:\Users\felipe.fsantos47\source\repos\matriz 1\obj\Debug\net8.0\matriz 1.dll
+C:\Users\felipe.fsantos47\source\repos\matriz 1\obj\Debug\net8.0\refint\matriz 1.dll
+C:\Users\felipe.fsantos47\source\repos\matriz 1\obj\Debug\net8.0\matriz 1.pdb
+C:\Users\felipe.fsantos47\source\repos\matriz 1\obj\Debug\net8.0\matriz 1.genruntimeconfig.cache
+C:\Users\felipe.fsantos47\source\repos\matriz 1\obj\Debug\net8.0\ref\matriz 1.dll
